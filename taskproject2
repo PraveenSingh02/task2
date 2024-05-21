@@ -69,6 +69,11 @@
   <h2 style="color: blue;">To-Do List</h2>
   <ul id="todo-list"></ul>
   <div>
+<!-- stage
+commit ---- 
+push -->
+
+    <h1>Amit Chaubey</h1>
     <h1>Aman Pathak</h1>
     <input type="text" id="task-input" placeholder="Add a new task">
     <button id="add-task-btn" onclick="addTask()">Add Task</button>
